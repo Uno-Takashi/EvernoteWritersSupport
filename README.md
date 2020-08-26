@@ -1,0 +1,2 @@
+# EvernoteWritersSupport
+Evernoteで小説を書く際のちょっとした便利機能
